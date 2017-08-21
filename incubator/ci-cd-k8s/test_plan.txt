@@ -1,0 +1,9 @@
+# Ensure a clean test environment
+cleanup/README.md
+../azure_compute/resource_group/create/script.md
+
+# Test the creation of a hello world instance
+create/README.md
+
+# Cleanup
+cleanup/README.md
