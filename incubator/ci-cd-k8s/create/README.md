@@ -8,9 +8,8 @@ Here, we will perform the following:
 
 ## Prerequisites
 
-We need to have installed the [Azure CLI](../../azure_compute/cli/install/).
-We need to have created an [ACS (Kubernetes) cluster](https://raw.githubusercontent.com/Azure/acs-demos/master/kubernetes/create_cluster/script.md).
-We need to have created an [ACR Instance](../../azure_compute/acr/install/).
+We need to have created an [ACS (Kubernetes) cluster](../../../kubernetes/create_cluster/script.md).
+We need to have created an [ACR Instance](../../azure_compute/acr/create/).
 We need to have installed [Helm](../../azure_compute/helm/install/).
 
 ## Environment Setup

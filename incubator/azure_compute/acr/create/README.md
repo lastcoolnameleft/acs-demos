@@ -3,13 +3,13 @@
 Here we will create an ACR instance
 
 ```
-az acr create -g $ACR_RESOURCE_GROUP -n $ACR_NAME --sku Managed_Standard --admin-enabled
+az acr create -g $SIMDEM_RESOURCE_GROUP -n $SIMDEM_ACR_NAME --sku Managed_Standard --admin-enabled
 ```
 
 # validation
 
 ```
-az acr show -g $ACR_RESOURCE_GROUP -n $ACR_NAME -o table
+az acr show -g $SIMDEM_RESOURCE_GROUP -n $SIMDEM_ACR_NAME -o table
 ```
 
 Results:

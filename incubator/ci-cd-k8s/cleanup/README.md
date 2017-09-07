@@ -1,4 +1,4 @@
-# Cleanup all resources used in the ACI demos
+# Cleanup all resources used in the CI/CD demos
 
 Check we are cleaning up the right resources:
 
